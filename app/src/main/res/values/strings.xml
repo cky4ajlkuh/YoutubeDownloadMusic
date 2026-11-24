@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">YouTube Music Downloader</string>
+    <string name="label_enter_link">Enter your YouTube video link</string>
+    <string name="hint_youtube_url">YouTube url…</string>
+    <string name="btn_download">Download</string>
+    <string name="btn_loading">Loading…</string>
+    <string name="btn_initialization">Initialization…</string>
+    <string name="btn_converting">Converting…</string>
+    <string name="save_folder">MP3 save path…</string>
+</resources>
